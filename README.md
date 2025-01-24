@@ -15,4 +15,4 @@ Multiplataforma: Compatível com Docker (local e remoto), Docker Swarm e Kuberne
 Leve e rápido: O Portainer é um container leve e fácil de instalar.
 Gratuito e open-source: Há uma versão Community gratuita para uso geral (com funcionalidades pagas na versão Business).
 
-Neste projeto foi usado uma stack como o swarm e um volume NFS para a persistência dod daos.
+Neste projeto foi usado uma stack como o swarm e um volume NFS para a persistência dos dados.
